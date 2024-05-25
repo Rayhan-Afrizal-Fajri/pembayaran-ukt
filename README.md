@@ -2,8 +2,8 @@
 
 ## Project Laravel
 
-** Oleh : **
+**Oleh :**
 
--   Fardan Nurhidayat | @Fardan-Nurhidayat
--   Rayhan Afrizal Fajri
--   Yefta Charrand Kusuma Putra
+-   Fardan Nurhidayat | [Fardan Nurhidayat](https://github.com/Fardan-Nurhidayat)
+-   Rayhan Afrizal Fajri | 
+-   Yefta Charrand Kusuma Putra | [Yefta Charrand Kusuma Putra](https://github.com/YeftaCharrand)
