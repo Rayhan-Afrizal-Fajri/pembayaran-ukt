@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Fardan Anying</h1>
+    <h1>Fardan Baik Banget</h1>
 </body>
 </html>
