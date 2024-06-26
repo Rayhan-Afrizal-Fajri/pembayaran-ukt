@@ -1,0 +1,7 @@
+# jalankan dulu migration dan seeder untuk mendapatkan akun admin
+# untuk membaca akun mahasiswa harus melakukan registrasi terlebih dahulu supaya detail_user akan ikut terbuat ketika ada yang melaukan registrasi
+# Pasti pada bingung terkait struktur nya
+# melihat profile ada di livewire\profile , controller yang mengatur profile ada di Livewire\profile
+# jetstream sudah include dengan tailwind dan livewire , kalo mau menggunakan livewire monggo sekalian belajar
+# Tampilan users di livewire\users
+# 
